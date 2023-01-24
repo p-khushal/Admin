@@ -11,7 +11,6 @@ function App() {
         <Route path="/Admin" element={  <Admin /> } />
         <Route path="/Admin/Dashboard" element={<Dashboard/> } />
       </Routes>
-     
     </div>
   );
 }
