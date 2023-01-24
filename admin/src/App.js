@@ -5,7 +5,7 @@ import Admin from './Components/Login/Admin';
 
 function App() {
   return (
-    <div className="App">
+    <div>
 
       <Routes>
         <Route path="/Admin" element={  <Admin /> } />
